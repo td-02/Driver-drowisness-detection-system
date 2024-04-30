@@ -29,7 +29,7 @@ This repository contains the implementation of a Driver Drowsiness Detection Sys
 ## Usage
 1. Run the main script:
    ```
-   python main.py
+  Drowsiness_Detection.py
    ```
 2. Adjust parameters such as thresholds and alert types as needed.
 3. Ensure proper lighting conditions for accurate detection.
